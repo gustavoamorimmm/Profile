@@ -1,5 +1,3 @@
-# Profile
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Amorim</h1>
 
 ###
